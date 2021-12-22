@@ -71,7 +71,7 @@ html {
 }
 
 .mt-64 {
-    margin-top: 64px;
+    margin-top: 64px !important;
 }
 
 .mt-128 {
@@ -313,5 +313,3 @@ html {
     color: #FFF;
     background: var(--primary-color);
 }
-
-.pagination-item__icon {}
